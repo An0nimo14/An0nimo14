@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F3EA,45:E8D9BF,100:C9A66B&height=230&section=header&text=Nick%20Atuncar&fontSize=60&fontColor=3A3A3C&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Product%20Owner%20%C2%B7%20Business%20Systems%20Analyst&descSize=17&descColor=5A5A5C&descAlignY=60&animation=fadeIn" width="100%" alt="Nick Atuncar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F3EA,45:E8D9BF,100:C9A66B&height=230&section=header&text=Nick%20Atuncar&fontSize=60&fontColor=3A3A3C&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Product%20Owner%20%C2%B7%20Business%20Systems%20Analyst&descSize=17&descColor=5A5A5C&descAlignY=60&animation=twinkling" width="100%" alt="Nick Atuncar"/>
 
 <a href="https://nickatuncar.domcloud.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3200&pause=1000&color=B8935A&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+que+resuelve+problemas+reales;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Del+backlog+al+despliegue%3A+producto+y+c%C3%B3digo;ERP+%C2%B7+Odoo+%C2%B7+Automatizaci%C3%B3n+de+procesos;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%C2%B7+Lima%2C+Per%C3%BA" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=6500&pause=2800&color=B8935A&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+que+resuelve+problemas+reales;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Del+backlog+al+despliegue%3A+producto+y+c%C3%B3digo;ERP+%C2%B7+Odoo+%C2%B7+Automatizaci%C3%B3n+de+procesos;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%C2%B7+Lima%2C+Per%C3%BA" alt="Typing"/>
 </a>
 
 <br/><br/>
@@ -22,6 +22,22 @@
 
 <img src="https://komarev.com/ghpvc/?username=An0nimo14&label=VISITAS&color=C9A66B&labelColor=3A3A3C&style=flat-square" alt="Visitas"/>
 <img src="https://img.shields.io/badge/ESTADO-Abierto%20a%20nuevas%20oportunidades-D9DADC?style=flat-square&labelColor=3A3A3C&logo=statuspage&logoColor=C9A66B" alt="Estado"/>
+
+<br/>
+
+<a href="#sobre-mi"><img src="https://img.shields.io/badge/SOBRE%20M%C3%8D-C9A66B?style=flat-square" alt="Sobre mí"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-C9A66B?style=flat-square" alt="Stack"/></a>
+<a href="#aportar"><img src="https://img.shields.io/badge/QU%C3%89%20APORTO-C9A66B?style=flat-square" alt="Qué aporto"/></a>
+<a href="#experiencia"><img src="https://img.shields.io/badge/EXPERIENCIA-C9A66B?style=flat-square" alt="Experiencia"/></a>
+<a href="#proyectos"><img src="https://img.shields.io/badge/PROYECTOS-C9A66B?style=flat-square" alt="Proyectos"/></a>
+<a href="#proceso"><img src="https://img.shields.io/badge/PROCESO-C9A66B?style=flat-square" alt="Proceso"/></a>
+<a href="#educacion"><img src="https://img.shields.io/badge/EDUCACI%C3%93N-C9A66B?style=flat-square" alt="Educación"/></a>
+<a href="#contacto"><img src="https://img.shields.io/badge/CONTACTO-C9A66B?style=flat-square" alt="Contacto"/></a>
+
+<!-- OPCIONAL: sube tu CV al repo (ej. CV_Nick_Atuncar.pdf) y quita los comentarios de esta línea
+<br/><br/>
+<a href="https://github.com/An0nimo14/An0nimo14/raw/main/CV_Nick_Atuncar.pdf"><img src="https://img.shields.io/badge/DESCARGAR%20CV-PDF-3A3A3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=C9A66B" alt="CV"/></a>
+-->
 
 </div>
 
@@ -51,25 +67,33 @@
 
 <br/>
 
+<table align="center" width="100%">
+<tr align="center">
+<td width="25%"><h2>10.º</h2><sub>ciclo de Ingeniería de Sistemas</sub></td>
+<td width="25%"><h2>4</h2><sub>experiencias profesionales</sub></td>
+<td width="25%"><h2>12+</h2><sub>proyectos construidos</sub></td>
+<td width="25%"><h2>30+</h2><sub>tecnologías y herramientas</sub></td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ======================= SOBRE MÍ ======================= -->
+<a id="sobre-mi"></a>
 <h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Sobre mí</h2>
 
 Soy **Nilton Nick Atuncar Quispe**, estudiante de décimo ciclo de Ingeniería de Sistemas e Informática. Desarrollo aplicaciones web y móviles con **Laravel, React, Next.js, NestJS y Odoo ERP**, y aplico **Scrum** para entregar soluciones alineadas con lo que el negocio realmente necesita.
 
 Me muevo con comodidad en tres frentes: **escribir el código**, **entender el proceso de negocio** que hay detrás y **gestionar el producto** para que cada entrega tenga sentido.
 
-```js
-const nick = {
-  rol:         ["Full Stack Developer", "Product Owner", "Business Systems Analyst"],
-  metodologia: ["Scrum", "RUP", "QA y buenas prácticas"],
-  enfoque:     "Soluciones web y móviles alineadas al negocio",
-  ubicacion:   "Lima, Perú"
-};
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4500&pause=1800&color=C9A66B&background=2E2E30&width=700&height=190&vCenter=true&multiline=true&repeat=false&lines=%24+whoami;%3E+Nick+Atuncar+%C2%B7+Full+Stack+%2B+Product+Owner;%24+stack+--main;%3E+Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Odoo;%24+status;%3E+Abierto+a+nuevas+oportunidades+%E2%9C%A6" alt="Terminal"/>
+</div>
 
 <br/>
 
 <!-- ======================= STACK ======================= -->
+<a id="stack"></a>
 <h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Stack tecnológico</h2>
 
 <p><b>Lenguajes</b></p>
@@ -142,6 +166,7 @@ const nick = {
 <br/>
 
 <!-- ======================= QUÉ PUEDO APORTAR ======================= -->
+<a id="aportar"></a>
 <h2><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Qué puedo aportar a tu equipo</h2>
 
 <table>
@@ -184,6 +209,7 @@ const nick = {
 <br/>
 
 <!-- ======================= EXPERIENCIA ======================= -->
+<a id="experiencia"></a>
 <h2><img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Experiencia profesional</h2>
 
 <table>
@@ -245,6 +271,7 @@ const nick = {
 <br/>
 
 <!-- ======================= PROYECTOS ======================= -->
+<a id="proyectos"></a>
 <h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Proyectos destacados</h2>
 
 <table>
@@ -315,6 +342,7 @@ const nick = {
 <br/>
 
 <!-- ======================= PROCESO ======================= -->
+<a id="proceso"></a>
 <h2><img src="https://api.iconify.design/lucide/route.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Cómo trabajo</h2>
 
 <table>
@@ -345,6 +373,7 @@ const nick = {
 <br/>
 
 <!-- ======================= EDUCACIÓN ======================= -->
+<a id="educacion"></a>
 <h2><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Educación y certificaciones</h2>
 
 <table>
@@ -374,6 +403,7 @@ const nick = {
 <br/>
 
 <!-- ======================= HABILIDADES BLANDAS ======================= -->
+<a id="habilidades"></a>
 <h2><img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Habilidades blandas</h2>
 
 ![Proactividad](https://img.shields.io/badge/Proactividad-D9DADC?style=flat-square&labelColor=D9DADC&color=D9DADC&logoColor=3A3A3C)
@@ -391,6 +421,7 @@ const nick = {
 <!-- ======================= CONTACTO ======================= -->
 <div align="center">
 
+<a id="contacto"></a>
 <h2><img src="https://api.iconify.design/lucide/mail.svg?color=%23C9A66B" width="26" align="absmiddle"/>&nbsp;Hablemos</h2>
 
 **¿Tienes una idea, un proyecto o una vacante? Me encantará conversar.**
@@ -400,8 +431,12 @@ const nick = {
 <a href="mailto:nick.atuncar.7@gmail.com"><img src="https://img.shields.io/badge/ESCR%C3%8DBEME-nick.atuncar.7%40gmail.com-C9A66B?style=for-the-badge&logo=gmail&logoColor=C9A66B&labelColor=3A3A3C" alt="Correo"/></a>
 <a href="https://nickatuncar.domcloud.dev"><img src="https://img.shields.io/badge/VISITA%20MI%20WEB-nickatuncar.domcloud.dev-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=C9A66B&labelColor=3A3A3C" alt="Web"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A66B,55:E8D9BF,100:F7F3EA&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=6000&pause=2500&color=B8935A&center=true&vCenter=true&width=640&height=40&lines=Gracias+por+visitar+mi+perfil;Construyamos+algo+excelente+juntos" alt="Gracias"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A66B,55:E8D9BF,100:F7F3EA&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
