@@ -199,8 +199,7 @@ const nick = {
 - **QA**, análisis de procesos de negocio, levantamiento de requerimientos y automatizaciones.
 - Soporte técnico de hardware y software, mantenimiento preventivo y correctivo, cableado de red y mesa de ayuda.
 
-`Laravel` `PHPUnit` `SonarQube` `Docker` `Tailwind CSS` `MySQL`
-
+<img src="https://img.shields.io/badge/Laravel-3A3A3C?style=flat-square&logo=laravel&logoColor=E8D9BF" alt="Laravel"/> <img src="https://img.shields.io/badge/PHPUnit-3A3A3C?style=flat-square&logo=php&logoColor=E8D9BF" alt="PHPUnit"/> <img src="https://img.shields.io/badge/SonarQube-3A3A3C?style=flat-square&logo=sonarqubeserver&logoColor=E8D9BF" alt="SonarQube"/> <img src="https://img.shields.io/badge/Docker-3A3A3C?style=flat-square&logo=docker&logoColor=E8D9BF" alt="Docker"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-3A3A3C?style=flat-square&logo=tailwindcss&logoColor=E8D9BF" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/MySQL-3A3A3C?style=flat-square&logo=mysql&logoColor=E8D9BF" alt="MySQL"/>
 </td>
 <td width="50%" valign="top">
 
@@ -213,8 +212,7 @@ const nick = {
 - **Óyeme:** citas con profesionales, mentorías, supervisión de apoderados y recordatorios para la atención de mujeres con TCA, apoyado en benchmarking del sector.
 - Gestión del backlog, stakeholders y entregas bajo **Scrum**.
 
-`Laravel 12` `React` `Tailwind CSS` `Culqi` `MySQL`
-
+<img src="https://img.shields.io/badge/Laravel%2012-3A3A3C?style=flat-square&logo=laravel&logoColor=E8D9BF" alt="Laravel 12"/> <img src="https://img.shields.io/badge/React-3A3A3C?style=flat-square&logo=react&logoColor=E8D9BF" alt="React"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-3A3A3C?style=flat-square&logo=tailwindcss&logoColor=E8D9BF" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Culqi-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="Culqi"/> <img src="https://img.shields.io/badge/MySQL-3A3A3C?style=flat-square&logo=mysql&logoColor=E8D9BF" alt="MySQL"/>
 </td>
 </tr>
 <tr>
@@ -228,8 +226,7 @@ const nick = {
 - Mantenimiento evolutivo de una plataforma empresarial: módulos automatizados **integrados con SUNAT**, formularios inteligentes y mejoras de experiencia de usuario.
 - Integración de **APIs REST** entre servicios y aplicaciones, con Git y GitHub para el control de versiones.
 
-`NestJS` `React` `Docker` `Redis` `AWS S3` `MariaDB`
-
+<img src="https://img.shields.io/badge/NestJS-3A3A3C?style=flat-square&logo=nestjs&logoColor=E8D9BF" alt="NestJS"/> <img src="https://img.shields.io/badge/React-3A3A3C?style=flat-square&logo=react&logoColor=E8D9BF" alt="React"/> <img src="https://img.shields.io/badge/Docker-3A3A3C?style=flat-square&logo=docker&logoColor=E8D9BF" alt="Docker"/> <img src="https://img.shields.io/badge/Redis-3A3A3C?style=flat-square&logo=redis&logoColor=E8D9BF" alt="Redis"/> <img src="https://img.shields.io/badge/AWS%20S3-3A3A3C?style=flat-square&logo=amazons3&logoColor=E8D9BF" alt="AWS S3"/> <img src="https://img.shields.io/badge/MariaDB-3A3A3C?style=flat-square&logo=mariadb&logoColor=E8D9BF" alt="MariaDB"/>
 </td>
 <td width="50%" valign="top">
 
@@ -240,8 +237,7 @@ const nick = {
 
 - Diseño y desarrollo del prototipo frontend de una plataforma para gestión de actividades, permisos, solicitudes, **indicadores (KPIs)** y automatización de procesos internos.
 
-`HTML5` `CSS3` `JavaScript`
-
+<img src="https://img.shields.io/badge/HTML5-3A3A3C?style=flat-square&logo=html5&logoColor=E8D9BF" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-3A3A3C?style=flat-square&logo=css3&logoColor=E8D9BF" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-3A3A3C?style=flat-square&logo=javascript&logoColor=E8D9BF" alt="JavaScript"/>
 </td>
 </tr>
 </table>
@@ -257,21 +253,21 @@ const nick = {
 <img src="https://api.iconify.design/lucide/wine.svg?color=%23C9A66B" width="24"/>
 <h4>La Cava del Sur</h4>
 <sub>E-commerce de licores con carrito de compras, gestión de usuarios, logística, inventario, roles y permisos.</sub><br/><br/>
-`.NET` `C#` `SQL Server`<br/><br/>
+<img src="https://img.shields.io/badge/.NET-3A3A3C?style=flat-square&logo=dotnet&logoColor=E8D9BF" alt=".NET"/> <img src="https://img.shields.io/badge/C%23-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="C#"/> <img src="https://img.shields.io/badge/SQL%20Server-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="SQL Server"/><br/><br/>
 <a href="https://github.com/An0nimo14/La-Cava-del-Sur-Proyecto-.NET-"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 <td width="33%" valign="top">
 <img src="https://api.iconify.design/lucide/message-circle-heart.svg?color=%23C9A66B" width="24"/>
 <h4>Óyeme</h4>
 <sub>Plataforma de citas, mentorías y supervisión de apoderados para mujeres con trastornos de la conducta alimentaria.</sub><br/><br/>
-`Laravel 12` `React` `Tailwind CSS`<br/><br/>
+<img src="https://img.shields.io/badge/Laravel%2012-3A3A3C?style=flat-square&logo=laravel&logoColor=E8D9BF" alt="Laravel 12"/> <img src="https://img.shields.io/badge/React-3A3A3C?style=flat-square&logo=react&logoColor=E8D9BF" alt="React"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-3A3A3C?style=flat-square&logo=tailwindcss&logoColor=E8D9BF" alt="Tailwind CSS"/><br/><br/>
 <a href="https://github.com/An0nimo14/Doc-Oyeme"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 <td width="33%" valign="top">
 <img src="https://api.iconify.design/lucide/handshake.svg?color=%23C9A66B" width="24"/>
 <h4>SUCooperative</h4>
 <sub>Gestión de tareas y eventos con roles y permisos, donaciones e interacción social.</sub><br/><br/>
-`Laravel 12` `MySQL` `Culqi`<br/><br/>
+<img src="https://img.shields.io/badge/Laravel%2012-3A3A3C?style=flat-square&logo=laravel&logoColor=E8D9BF" alt="Laravel 12"/> <img src="https://img.shields.io/badge/MySQL-3A3A3C?style=flat-square&logo=mysql&logoColor=E8D9BF" alt="MySQL"/> <img src="https://img.shields.io/badge/Culqi-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="Culqi"/><br/><br/>
 <a href="https://github.com/An0nimo14/SUCdocumentacion"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 </tr>
@@ -280,21 +276,21 @@ const nick = {
 <img src="https://api.iconify.design/lucide/scan-qr-code.svg?color=%23C9A66B" width="24"/>
 <h4>Control de Asistencias</h4>
 <sub>Registro de entradas, salidas y horas trabajadas con códigos QR, seguimiento por usuario y alertas de marcación.</sub><br/><br/>
-`Apps Script` `Google Sheets` `HTML5`<br/><br/>
+<img src="https://img.shields.io/badge/Apps%20Script-3A3A3C?style=flat-square&logo=google&logoColor=E8D9BF" alt="Apps Script"/> <img src="https://img.shields.io/badge/Google%20Sheets-3A3A3C?style=flat-square&logo=googlesheets&logoColor=E8D9BF" alt="Google Sheets"/> <img src="https://img.shields.io/badge/HTML5-3A3A3C?style=flat-square&logo=html5&logoColor=E8D9BF" alt="HTML5"/><br/><br/>
 <a href="https://github.com/An0nimo14/Control-de-Asistencias-SUC"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 <td width="33%" valign="top">
 <img src="https://api.iconify.design/lucide/users-round.svg?color=%23C9A66B" width="24"/>
 <h4>Registro de Personal</h4>
 <sub>Sistema offline en Excel y VBA con CRUD, validaciones, búsqueda y visualización de datos.</sub><br/><br/>
-`Excel` `VBA` `Macros`<br/><br/>
+<img src="https://img.shields.io/badge/Excel-3A3A3C?style=flat-square&logo=microsoftexcel&logoColor=E8D9BF" alt="Excel"/> <img src="https://img.shields.io/badge/VBA-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="VBA"/> <img src="https://img.shields.io/badge/Macros-3A3A3C?style=flat-square&logoColor=E8D9BF" alt="Macros"/><br/><br/>
 <a href="https://github.com/An0nimo14/Registro-de-personal-SUC"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 <td width="33%" valign="top">
 <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23C9A66B" width="24"/>
 <h4>Juego de Michi</h4>
 <sub>Juego local para dos jugadores con ranking, hecho con JavaScript puro.</sub><br/><br/>
-`HTML5` `CSS3` `JavaScript`<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-3A3A3C?style=flat-square&logo=html5&logoColor=E8D9BF" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-3A3A3C?style=flat-square&logo=css3&logoColor=E8D9BF" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-3A3A3C?style=flat-square&logo=javascript&logoColor=E8D9BF" alt="JavaScript"/><br/><br/>
 <a href="https://github.com/An0nimo14/Juego-de-Michi-2-players"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-3A3A3C?style=flat-square&logo=github&logoColor=C9A66B" alt="repo"/></a>
 </td>
 </tr>
