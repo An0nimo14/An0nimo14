@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F3EA,45:E8D9BF,100:C9A66B&height=230&section=header&text=Nick%20Atuncar&fontSize=60&fontColor=3A3A3C&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Product%20Owner%20%C2%B7%20Business%20Systems%20Analyst&descSize=17&descColor=5A5A5C&descAlignY=60" width="100%" alt="Nick Atuncar"/>
 
 <a href="https://nickatuncar.domcloud.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=11000&pause=3500&color=B8935A&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+que+resuelve+problemas+reales;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Del+backlog+al+despliegue%3A+producto+y+c%C3%B3digo;ERP+%C2%B7+Odoo+%C2%B7+Automatizaci%C3%B3n+de+procesos;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%C2%B7+Lima%2C+Per%C3%BA" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=5500&pause=2500&color=B8935A&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+que+resuelve+problemas+reales;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Del+backlog+al+despliegue%3A+producto+y+c%C3%B3digo;ERP+%C2%B7+Odoo+%C2%B7+Automatizaci%C3%B3n+de+procesos;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%C2%B7+Lima%2C+Per%C3%BA" alt="Typing"/>
 </a>
 
 <br/><br/>
@@ -87,7 +87,7 @@ Soy **Nilton Nick Atuncar Quispe**, estudiante de décimo ciclo de Ingeniería d
 Me muevo con comodidad en tres frentes: **escribir el código**, **entender el proceso de negocio** que hay detrás y **gestionar el producto** para que cada entrega tenga sentido.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6500&pause=2000&color=C9A66B&background=2E2E30&width=700&height=190&vCenter=true&multiline=true&repeat=false&lines=%24+whoami;%3E+Nick+Atuncar+%C2%B7+Full+Stack+%2B+Product+Owner;%24+stack+--main;%3E+Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Odoo;%24+status;%3E+Abierto+a+nuevas+oportunidades+%E2%9C%A6" alt="Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=700&color=C9A66B&background=2E2E30&width=700&height=190&vCenter=true&multiline=true&repeat=false&lines=%24+whoami;%3E+Nick+Atuncar+%C2%B7+Full+Stack+%2B+Product+Owner;%24+stack+--main;%3E+Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Odoo;%24+status;%3E+Abierto+a+nuevas+oportunidades+%E2%9C%A6" alt="Terminal"/>
 </div>
 
 <br/>
@@ -433,7 +433,7 @@ Me muevo con comodidad en tres frentes: **escribir el código**, **entender el p
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=9000&pause=3500&color=B8935A&center=true&vCenter=true&width=640&height=40&lines=Gracias+por+visitar+mi+perfil;Construyamos+algo+excelente+juntos" alt="Gracias"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2500&color=B8935A&center=true&vCenter=true&width=640&height=40&lines=Gracias+por+visitar+mi+perfil;Construyamos+algo+excelente+juntos" alt="Gracias"/>
 
 <br/>
 
